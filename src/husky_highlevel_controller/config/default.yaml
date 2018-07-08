@@ -1,0 +1,8 @@
+scan_topicName: /scan
+scan_queueSize: 1
+twist_topic_name: /cmd_vel
+pub_queueSize : 1
+controller_gain: .1
+x_vel: 1
+marker_publiser_name: /marker_position
+marker_queue_size: 1

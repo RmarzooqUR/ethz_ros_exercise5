@@ -1,0 +1,5 @@
+husky_highlevel_controller
+/home/marzooq/ROS_playground/course_4/devel/.private/husky_highlevel_controller/share/husky_highlevel_controller/cmake/husky_highlevel_controllerConfig.cmake /home/marzooq/ROS_playground/course_4/devel/share/husky_highlevel_controller/cmake/husky_highlevel_controllerConfig.cmake
+/home/marzooq/ROS_playground/course_4/devel/.private/husky_highlevel_controller/share/husky_highlevel_controller/cmake/husky_highlevel_controllerConfig-version.cmake /home/marzooq/ROS_playground/course_4/devel/share/husky_highlevel_controller/cmake/husky_highlevel_controllerConfig-version.cmake
+/home/marzooq/ROS_playground/course_4/devel/.private/husky_highlevel_controller/lib/husky_highlevel_controller/husky_highlevel_controller /home/marzooq/ROS_playground/course_4/devel/lib/husky_highlevel_controller/husky_highlevel_controller
+/home/marzooq/ROS_playground/course_4/devel/.private/husky_highlevel_controller/lib/pkgconfig/husky_highlevel_controller.pc /home/marzooq/ROS_playground/course_4/devel/lib/pkgconfig/husky_highlevel_controller.pc
